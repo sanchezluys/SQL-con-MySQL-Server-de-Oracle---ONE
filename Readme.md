@@ -1,101 +1,45 @@
-# Curso de Formación Oracle MySQL ONE
+# Bancos de Datos MySQL - Oracle DB
 
-Este repositorio contiene los avances y proyectos realizados durante el curso de Formación Oracle MySQL ONE en Alura, con el objetivo de obtener la certificación en MySQL.
+Tomado de:
 
-## Descripción del curso
+https://www.youtube.com/watch?v=8J0AoPZMVxA
 
-El curso de Formación Oracle MySQL ONE es un programa integral diseñado para proporcionar una comprensión profunda de MySQL, cubriendo desde conceptos básicos hasta avanzados. A través de este curso, los estudiantes aprenderán a diseñar, implementar y gestionar bases de datos MySQL de manera efectiva.
+Entrevista a: Narciso Junior / MySQL Cloud Evangelist
 
-## Estructura del repositorio
+- Banco es un conjunto de bases de datos, repositorio central
+- Comunidad de mysql / OCI
+- Existe una infraestructura y tecnologia que protege y resguarda la data, auditorias, backups
+- Performante disponible
+- diferentes aplicaciones pueden acceder a la misma base de datos
+- Usa SQL - idioma
+- 1 er lugar en el mundo empresarial Oracle DB, 2do Lugar MySQL
+- MySQL tiene una version Open Source, integraciones simples, faciles
+- Existe soporte para la mayoria de los lenguajes modernos como Java, pytho, php, 
+- MySQL usando en pequeñas empresas y en empresas de videos streaming etc que son relativamente grandes
+- MySQL es escalable
+  
+- **DBA**: administrador de base de datos, profesion
+  - Mantiene plataforma
+  - Seguridad, performance, ahorros, costos
+  - Desarrollo
+  - Maneja BigData, muchos datos
+  - Se debe orientar al DBA en la nube
+  - Debe saber tablas/consultas/indices/
+  - Storage - manejo, performance, saber redes
+  - Debe saber ingles
+  - Debe saber SQL
 
-El repositorio está organizado en carpetas según los módulos y proyectos del curso:
-
-- `Módulo 1`: Introducción a MySQL
-- `Módulo 2`: Consultas básicas
-- `Módulo 3`: Diseño de bases de datos
-- `Módulo 4`: Consultas avanzadas
-- `Módulo 5`: Optimización y administración
-- `Proyectos`: Proyectos finales y ejercicios prácticos
-
-## Módulo 1: Introducción a MySQL
-
-### Contenido
-
-- Historia y características de MySQL
-- Instalación y configuración de MySQL
-- Introducción a SQL
-
-### Avances
-
-- [x] Instalación de MySQL
-- [x] Creación de bases de datos y tablas básicas
-
-## Módulo 2: Consultas básicas
-
-### Contenido
-
-- Select, Insert, Update y Delete
-- Filtros y condiciones
-
-### Avances
-
-- [x] Ejercicios de consultas básicas
-- [x] Manipulación de datos
-
-## Módulo 3: Diseño de bases de datos
-
-### Contenido
-
-- Modelado de datos
-- Relaciones y claves foráneas
-
-### Avances
-
-- [x] Creación de esquemas de bases de datos
-- [x] Implementación de relaciones
-
-## Módulo 4: Consultas avanzadas
-
-### Contenido
-
-- Subconsultas
-- Funciones de agregación
-- Joins
-
-### Avances
-
-- [ ] Ejercicios de subconsultas
-- [ ] Ejercicios de funciones de agregación
-- [ ] Ejercicios de joins
-
-## Módulo 5: Optimización y administración
-
-### Contenido
-
-- Índices
-- Backups y restauraciones
-- Optimización de consultas
-
-### Avances
-
-- [ ] Implementación de índices
-- [ ] Ejercicios de backups y restauraciones
-- [ ] Optimización de consultas
-
-## Proyectos
-
-- [ ] Proyecto 1: [Descripción del proyecto]
-- [ ] Proyecto 2: [Descripción del proyecto]
-
-## Recursos adicionales
-
-- [Documentación oficial de MySQL](https://dev.mysql.com/doc/)
-- [Alura Cursos](https://app.aluracursos.com/formacion-oracle-mysql-one)
-
-## Contacto
-
-Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de [tu email o redes sociales].
-
----
-
-¡Gracias por visitar este repositorio! Espero que encuentres útil la información y los ejemplos aquí compartidos.
+- **OCI** Nube de Datos de Orace
+  - Seguridad de la data, proveedor de servicios
+  - Aplicaciones, 
+  - Performance, 
+  - Inteligencia artificial
+  - MySQL, Oracle DB
+  - OCI se encarga de los backups, performance, administracion, actualizacion de version, monitoreo, servicios
+  - SaaS
+  - https://www.oracle.com/cloud/free/   servicios de prueba gratis por 30 dias, en algunos casos hay servicios de por vida
+  - Ventajas de costos en una migracion de una empresa que tenga su datacenter
+  - Flexibilidad para crecer o escalar de una manera muy rapida
+  - Agreagan a la nueva version servicios para ciencia de datos
+  - Machine Learning
+  
