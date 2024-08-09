@@ -1,8 +1,13 @@
-# SQL CON MYSQL PROYECTO FINAL
+# Administrando MySQL Server
 
-    - Desarrolle un proyecto práctico utilizando MySQL
-    - Cree una base de datos con sus entidades y relaciones
-    - Manipule datos a través de comandos DML
-    - Realice consultas SQL a los datos
-    - Aprenda a trabajar con la función RAND() y desarrolla funciones
-    - Trabaje con Stored Procedures y TRIGGERS
+En esta última parte conocerás como es el trabajo diário de un/una profesional responsable por 
+- gerenciar, 
+- instalar, 
+- configurar, 
+- actualizar y 
+- monitorar una base de datos: un/una DBA (DataBase Administrator).
+
+Conocerás el plano de ejecución y sus características, 
+- indicadores y joins. 
+- Aprenderás a manejar backups y 
+- entenderás que es y como funciona la recuperación de datos
