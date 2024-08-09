@@ -1,13 +1,7 @@
-# Administrando MySQL Server
+# Administración de MySQL: Seguridad y optimización de la base de datos - Parte 1
 
-En esta última parte conocerás como es el trabajo diário de un/una profesional responsable por 
-- gerenciar, 
-- instalar, 
-- configurar, 
-- actualizar y 
-- monitorar una base de datos: un/una DBA (DataBase Administrator).
-
-Conocerás el plano de ejecución y sus características, 
-- indicadores y joins. 
-- Aprenderás a manejar backups y 
-- entenderás que es y como funciona la recuperación de datos
+- Conozca cuál es el papel del DBA
+- Realice un tuning de su hardware
+- Efectúe un tuning del software modificando algunas variables de entorno
+- Analice las características sobre los principales mecanismos de almacenamiento
+- Aprenda cómo ejecutar correctamente el backup
